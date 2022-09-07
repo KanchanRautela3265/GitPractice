@@ -24,6 +24,8 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Greeting("Android")
                     Greeting(name = "Some else")
+                    Greeting(name = "Some else")
+                    Greeting(name = "Some else")
                 }
             }
         }
